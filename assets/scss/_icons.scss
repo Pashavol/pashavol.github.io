@@ -1,0 +1,17 @@
+:root {
+  --ico-size: 1rem;
+  --ico-color: currentcolor;
+}
+
+
+.ico {
+  width: var(--ico-size);
+  height: var(--ico-size);
+  fill: var(--ico-color);
+}
+
+.ico-social {
+  width: 2rem;
+  height: 2rem;
+  fill: none;
+}

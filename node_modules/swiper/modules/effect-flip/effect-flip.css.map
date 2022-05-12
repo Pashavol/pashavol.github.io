@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,YAAa;EACX,QAAQ,EAAE,OAAO;EACjB,0BAAc;IACZ,cAAc,EAAE,IAAI;IACpB,mBAAmB,EAAE,MAAM;IAC3B,OAAO,EAAE,CAAC;IACV,wCAAc;MACZ,cAAc,EAAE,IAAI;EAItB,yFACuB;IACrB,cAAc,EAAE,IAAI;EAGxB;;;yCAG2B;IACzB,OAAO,EAAE,CAAC;IACV,mBAAmB,EAAE,MAAM",
+"sources": ["effect-flip.scss"],
+"names": [],
+"file": "effect-flip.css"
+}
